@@ -2,4 +2,4 @@
 
   $ git clone https://github.com/ndelapaz/samltest.git .
   
-  $ docker compose up
+  $ docker compose up -d
